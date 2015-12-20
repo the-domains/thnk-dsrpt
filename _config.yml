@@ -1,0 +1,14 @@
+layout_spectrum: 0.8845327
+color:
+  saturation: 0.17884
+  brandStrength: 0.8050483
+  lightness: 0.8383458
+  brandColors:
+    - '#424142'
+    - '#020202'
+    - '#FFFFFF'
+    - '#D1CFD0'
+    - '#9B999A'
+  rhythmicContrast: 0.4548872
+typography_spectrum: 0.1090225
+name: thnk/dsrpt
